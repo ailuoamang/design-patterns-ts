@@ -1,0 +1,16 @@
+{
+  "name": "design-patterns-ts",
+  "version": "1.0.0",
+  "description": "for practice design patterns with typescript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^20.9.0",
+    "typescript": "^5.2.2"
+  }
+}
