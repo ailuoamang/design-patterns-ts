@@ -1,3 +1,4 @@
+//ts 工厂模式
 interface Transport{
   deliver():void;
 }
